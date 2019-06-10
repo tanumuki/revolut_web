@@ -1,0 +1,14 @@
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/managers/SafariDriverManager.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/utilities/Util.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/listener/ExtentReporterNG.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/managers/ChromeDriverManager.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/listener/Listeners.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/managers/DriverManagerFactory.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/enums/ScrollType.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/enums/DriverType.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/resources/DataObjects.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/managers/DriverConnection.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/managers/DriverManager.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/pageObjects/HomePage.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/logger/MyLogger.java
+/Users/tanumukherjee/eclipse-workspace/revolut/src/main/java/managers/FirefoxDriverManager.java

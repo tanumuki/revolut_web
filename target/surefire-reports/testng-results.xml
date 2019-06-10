@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="37267" started-at="2019-06-10T16:43:30Z" finished-at="2019-06-10T16:44:07Z">
+    <groups>
+    </groups>
+    <test name="Verify Home" duration-ms="37267" started-at="2019-06-10T16:43:30Z" finished-at="2019-06-10T16:44:07Z">
+      <class name="testcases.VerifyHomePage">
+        <test-method status="PASS" signature="init(java.lang.String, enums.DriverType)[pri:0, instance:testcases.VerifyHomePage@3a03464]" name="init" is-config="true" duration-ms="16113" started-at="2019-06-10T16:43:30Z" finished-at="2019-06-10T16:43:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[src/main/java/resources/userData.json]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[CHROME]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="verifyTextOnHelpModule()[pri:0, instance:testcases.VerifyHomePage@3a03464]" name="verifyTextOnHelpModule" duration-ms="12907" started-at="2019-06-10T16:43:46Z" finished-at="2019-06-10T16:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTextOnHelpModule -->
+        <test-method status="PASS" signature="verifyKeyboardShortcuts()[pri:1, instance:testcases.VerifyHomePage@3a03464]" name="verifyKeyboardShortcuts" duration-ms="518" started-at="2019-06-10T16:43:59Z" finished-at="2019-06-10T16:43:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyKeyboardShortcuts -->
+        <test-method status="PASS" signature="verifyCountry()[pri:2, instance:testcases.VerifyHomePage@3a03464]" name="verifyCountry" duration-ms="7512" started-at="2019-06-10T16:43:59Z" finished-at="2019-06-10T16:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCountry -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testcases.VerifyHomePage@3a03464]" name="tearDown" is-config="true" duration-ms="197" started-at="2019-06-10T16:44:07Z" finished-at="2019-06-10T16:44:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testcases.VerifyHomePage -->
+    </test> <!-- Verify Home -->
+  </suite> <!-- Suite -->
+</testng-results>
